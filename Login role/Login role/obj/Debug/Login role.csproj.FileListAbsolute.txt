@@ -1,0 +1,17 @@
+C:\Documents and Settings\Pintu\My Documents\Visual Studio 2008\Projects\Login role\Login role\bin\Login role.dll
+C:\Documents and Settings\Pintu\My Documents\Visual Studio 2008\Projects\Login role\Login role\bin\Login role.pdb
+C:\Documents and Settings\Pintu\My Documents\Visual Studio 2008\Projects\Login role\Login role\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pintu\My Documents\Visual Studio 2008\Projects\Login role\Login role\obj\Debug\Login role.dll
+C:\Documents and Settings\Pintu\My Documents\Visual Studio 2008\Projects\Login role\Login role\obj\Debug\Login role.pdb
+C:\Users\sobuj\Downloads\Loginrole\Login role\Login role\bin\Login role.dll.config
+C:\Users\sobuj\Downloads\Loginrole\Login role\Login role\bin\Login role.dll
+C:\Users\sobuj\Downloads\Loginrole\Login role\Login role\bin\Login role.pdb
+C:\Users\sobuj\Downloads\Loginrole\Login role\Login role\obj\Debug\Login role.csprojResolveAssemblyReference.cache
+C:\Users\sobuj\Downloads\Loginrole\Login role\Login role\obj\Debug\Login role.dll
+C:\Users\sobuj\Downloads\Loginrole\Login role\Login role\obj\Debug\Login role.pdb
+C:\Users\IT\Desktop\Login role\Login role\bin\Login role.dll.config
+C:\Users\IT\Desktop\Login role\Login role\bin\Login role.dll
+C:\Users\IT\Desktop\Login role\Login role\bin\Login role.pdb
+C:\Users\IT\Desktop\Login role\Login role\obj\Debug\Login role.dll
+C:\Users\IT\Desktop\Login role\Login role\obj\Debug\Login role.pdb
+C:\Users\IT\Desktop\Login role\Login role\obj\Debug\Login role.csprojResolveAssemblyReference.cache
